@@ -1,5 +1,5 @@
 # Renew ssl istio
-- GKE 14.x
+- GKE 1.14.x
 - Istio 1.3.x
 - Sectigo ssl
 
